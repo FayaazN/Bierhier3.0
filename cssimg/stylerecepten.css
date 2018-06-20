@@ -1,0 +1,104 @@
+/*Hoofdpagina*/
+div#wrapper,footer{
+    margin: auto;
+    width: 1500px;
+    background-color: whitesmoke;
+    align-content: center;
+    height:750pxpx;
+    
+}
+
+body {
+    font-family:'Arial', 'sans serif';
+}
+
+.nav {
+ background-color: cadetblue;
+ color: #FFFFFF;
+ text-align: center;
+ padding: 10px 0 10px 0;
+ font-size: 19px
+    
+}
+
+.nav > li{
+    display:inline-block;
+    padding-right: 50px;
+    margin-left:20px
+}
+
+.nav > li > a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.titlerecept {
+    margin-top: 30px;
+    margin-bottom:30px;
+}
+.gerechtuitleg{
+    width: 500px;
+    margin-bottom: 100px;
+}
+.contents{
+    margin-left: 20px;
+    
+}
+.gerecht1{
+    margin-bottom: 80px;
+}
+.g1f1{
+    width: 250px;
+    height:200px; 
+    float:right;
+    margin-right: 20px;
+    
+}
+.g1f2{
+    width: 250px;
+    height:200px;
+    float: right;
+    margin-right: 10px;
+    
+}
+.g2f1{
+    height:200px; 
+    float:right;
+    margin-right: 20px;
+    
+}
+.g2f2{
+    margin-right:20px;
+    height:200px; 
+    float:right;
+    
+}
+.g3f2{
+    margin-right:20px;
+    height:200px; 
+    float:right;
+    
+}
+.g3f1{
+    margin-right:20px;
+    height:200px; 
+    float:right;
+    
+}
+footer{
+    background-color:#9c9a9e;
+    color: white;
+}
+
+
+.ullinks{
+    font-size: 20px;
+    list-style-type: none;
+    
+}
+.ullinks a{
+    color:white;
+}
+
+
+
+
